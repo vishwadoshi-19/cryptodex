@@ -49,7 +49,7 @@ function MainComponent() {
             data={{
               text: "CryptoDashboard made by Avi Vashishta using React JS.",
               url: "https://crypto-dashboard-jan.netlify.app",
-              title: "CryptoTracker.",
+              title: "CryptoDex.",
             }}
             onClick={() => toast.info("App Shared!")}
           >
